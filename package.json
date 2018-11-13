@@ -1,5 +1,8 @@
 {
   "name": "TeslaChangelog",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^5.5.0",
+    "bootstrap": "^4.1.3"
+  }
 }
