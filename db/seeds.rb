@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Model.create!(name: "Roadster")
+Model.create!(name: "Model S")
+Model.create!(name: "Model X")
+Model.create!(name: "Model 3")
